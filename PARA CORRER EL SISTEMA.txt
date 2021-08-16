@@ -1,0 +1,11 @@
+Para poder correr el sistema debe de correr una la termina en la carpeta del proyecto los comandos 
+
+-npm install
+
+-npm run dev
+
+-php artisan migrate
+
+y para verlo en funcionamiento en un servido debe de correr 
+
+-php artisan serve
